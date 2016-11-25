@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  descrip: MyText
+  preptime: 
+  cooktime: 
+  serving: 
+
+two:
+  name: MyString
+  descrip: MyText
+  preptime: 
+  cooktime: 
+  serving: 
